@@ -1,0 +1,22 @@
+.primeiraslistas{ color:darkgreen;
+}
+
+.segundaslistas{ color:rgb(130, 16, 196);
+}
+
+.terceiraslistas{ color:darkslateblue
+}
+
+.ultimaslistas{ color:rgb(237, 227, 241)
+}
+
+#titulo { color:rgb(2, 62, 65);
+}
+
+.paragrafo{ 
+    color: rgb(35, 3, 63);
+    font-size: 17px;
+    font-family:Verdana;
+    line-height: 1;
+    border:2px solid rgb(8, 77, 206);
+}

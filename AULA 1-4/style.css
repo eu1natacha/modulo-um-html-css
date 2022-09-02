@@ -1,4 +1,4 @@
-.primeiraslistas{ color:darkgreen;
+.primeiraslistas{ color:rgb(82, 12, 129);
 }
 
 .segundaslistas{ color:rgb(130, 16, 196);
@@ -10,11 +10,11 @@
 .ultimaslistas{ color:rgb(237, 227, 241)
 }
 
-#titulo { color:rgb(2, 62, 65);
+#titulo { color:rgb(146, 9, 135);
 }
 
 .paragrafo{ 
-    color: rgb(35, 3, 63);
+    color: rgb(85, 5, 105);
     font-size: 17px;
     font-family:Verdana;
     line-height: 1;

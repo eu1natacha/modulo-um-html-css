@@ -1,0 +1,42 @@
+*{
+    font-family: comic sans-serif;
+    text-align: center;
+    color: bisque;
+}
+
+body {
+    border: 1px dotted palevioletred;
+}
+
+.card{
+    /*largura*/
+    width: 425px;   
+    /*altura*/
+    height: 212px;
+    border: 1px solid purple;
+    margin: 10px 0 10px 11px;
+    padding: 10px;
+    display: inline-block;
+    }
+
+.card-titulo{
+    font-size: medium;
+    margin: 0 0 10px 20;
+    display: inline;
+    margin-left: 20px;
+    color: rgb(10, 231, 10);
+}
+
+.card-imagem{
+    width: 30% ;
+    display: inline ;
+    float: left ;
+}
+.card-text{
+    display: inline;
+    width: 65%;
+    float: right;
+    font-size: small;
+    line-height: 15pt;
+    margin-top: 30px;
+}

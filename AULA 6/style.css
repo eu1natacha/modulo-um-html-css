@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    background: gray;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.avatar{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    
+}
+
+.container-sobre {
+    display:flex ;
+}
+
+.sobre{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-left: 32px;
+    }
+
+.nome{
+font-size: x-large;
+color: rgb(49, 6, 90);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
